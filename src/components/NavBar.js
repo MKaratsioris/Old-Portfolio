@@ -24,6 +24,7 @@ export const NavBar = () => {
                 href="https://bit.ly/3YFrFbz"
                 className="navbar-logo"
                 target="_blank"
+                rel="noreferrer"
                 title="My Github"
                 onClick={closeMobileMenu}
               >
@@ -36,6 +37,7 @@ export const NavBar = () => {
                 href="https://bit.ly/3jb2tu7"
                 className="navbar-logo"
                 target="_blank"
+                rel="noreferrer"
                 title="My LinkedIn"
                 onClick={closeMobileMenu}
               >
@@ -48,6 +50,7 @@ export const NavBar = () => {
                 href="https://bit.ly/4761UFR"
                 className="navbar-logo"
                 target="_blank"
+                rel="noreferrer"
                 title="My Facebook"
                 onClick={closeMobileMenu}
               >
